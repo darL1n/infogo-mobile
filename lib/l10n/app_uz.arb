@@ -1,0 +1,39 @@
+{
+  "@@locale": "uz",
+  "appTitle": "Mahalliy Gid",
+
+  "splash_title": "Mahalliy Gid",
+
+  "home_search_placeholder": "Bugun qayerga boramiz?",
+  "home_greeting_night": "Xayrli tun, {name} 👋",
+  "@home_greeting_night": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "home_hero_subtitle": "Bugun {city} shahrida — qayerga boramiz?",
+  "@home_hero_subtitle": {
+    "placeholders": {
+      "city": {
+        "type": "String"
+      }
+    }
+  },
+
+  "location_setup_title": "Keling, shahringizni tanlaymiz",
+  "location_setup_description": "Yaqiningizdagi joylarni ko‘rsatish uchun shahringizni bilishimiz kerak. Geolokatsiyani yoqishingiz yoki ro‘yxatdan tanlashingiz mumkin.",
+  "location_setup_auto": "Avtomatik aniqlash",
+  "location_setup_auto_loading": "Shahar aniqlanmoqda...",
+  "location_setup_manual_title": "Yoki shaharingizni ro‘yxatdan tanlang",
+  "location_setup_autodetect_failed_default": "Shaharni avtomatik aniqlab bo‘lmadi. Iltimos, ro‘yxatdan tanlang.",
+  "location_setup_autodetect_failed_reason": "Shaharni aniqlash imkoni bo‘lmadi: {reason}",
+  "@location_setup_autodetect_failed_reason": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  }
+}
