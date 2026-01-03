@@ -1,7 +1,7 @@
 class MapTilerConfig {
   // TODO: положи ключ в .env/secure storage,
   // тут для простоты — хардкод.
-  static const String apiKey = 'X4zUPfHlUU7JiKWdVw9u';
+  static const String apiKey = 'some-one-secret-key';
 
   // streets-v4 или streets-v2 — что ты выбрал в MapTiler
   static const String tilesUrl =
